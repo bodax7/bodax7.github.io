@@ -1,0 +1,10 @@
+[{
+"relation": ["delegate_permission/common.handle_all_urls"],
+"target": {
+"namespace": "android_app",
+"package_name": "io.github.bodax7.mylife",
+"sha256_cert_fingerprints": [
+"FE:14:4A:F1:87:62:A2:16:19:9D:5C:6A:57:31:14:5D:D1:5E:C5:A6:0B:E0:EC:C4:1C:6C:8F:2D:32:33:BE:2A"
+]
+}
+}]
